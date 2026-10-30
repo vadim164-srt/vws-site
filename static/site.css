@@ -350,3 +350,5 @@ dialog.lb p{color:#fff;text-align:center;margin-top:10px}
 .prose--contacts .ph{padding:0;border:0;background:none;display:inline-block;width:calc(33.333% - 8px);margin:0 8px 8px 0;cursor:zoom-in;vertical-align:top}
 .prose--contacts .ph img{aspect-ratio:4/3;object-fit:cover;width:100%}
 @media (max-width:560px){.prose--contacts .ph{width:calc(50% - 8px)}}
+.gallery--album{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+.gallery--album img{aspect-ratio:4/3}

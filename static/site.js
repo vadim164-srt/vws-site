@@ -28,6 +28,7 @@
     var data={}; new FormData(f).forEach(function(v,k){data[k]=v}); data.page=location.pathname;
     var ok=$('.form__ok',f.parentNode), btn=$('button[type=submit]',f);
     var done=function(sent){f.hidden=true;ok.hidden=false;$('[data-sent]',ok).hidden=!sent;$('[data-demo]',ok).hidden=sent;};
+    if(window.ym){try{ym(277530,'reachGoal','form_submit')}catch(_){}}
     var url=window.VWS_FORM_ENDPOINT;
     if(!url){done(false);return;}
     btn.disabled=true;
