@@ -352,3 +352,9 @@ dialog.lb p{color:#fff;text-align:center;margin-top:10px}
 @media (max-width:560px){.prose--contacts .ph{width:calc(50% - 8px)}}
 .gallery--album{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
 .gallery--album img{aspect-ratio:4/3}
+.consent{display:flex;gap:10px;align-items:flex-start;font-size:13px;line-height:1.45;color:var(--muted);cursor:pointer}
+.consent input{flex:none;width:18px;height:18px;margin:1px 0 0;accent-color:var(--accent)}
+.consent a{color:var(--fg);text-decoration:underline;text-underline-offset:2px}
+.foot__docs{display:flex;flex-wrap:wrap;gap:6px 18px}
+.foot__docs a{color:inherit;text-decoration:none}
+.foot__docs a:hover{color:var(--ink-fg);text-decoration:underline}

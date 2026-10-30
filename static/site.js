@@ -24,6 +24,7 @@
 
   $$('form.form').forEach(function(f){f.addEventListener('submit',function(e){
     e.preventDefault();
+    var cb=f.consent; if(cb && !cb.checked){cb.setCustomValidity('Нужно согласие на обработку персональных данных');cb.reportValidity();cb.setCustomValidity('');return;}
     var tel=f.phone; if(tel && tel.value.replace(/\D/g,'').length<11){tel.setCustomValidity('Укажите телефон полностью: +7 и 10 цифр');tel.reportValidity();tel.setCustomValidity('');return;}
     var data={}; new FormData(f).forEach(function(v,k){data[k]=v}); data.page=location.pathname;
     var ok=$('.form__ok',f.parentNode), btn=$('button[type=submit]',f);
