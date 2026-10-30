@@ -1,0 +1,515 @@
+{
+ "cleanUrls": false,
+ "redirects": [
+  {
+   "source": "/cars/audi/a2",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a3",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a4",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a5",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a6",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a7",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a8",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q3",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q5",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q7",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/focus",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/mondeo",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/transit",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/accent",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/santa-fe",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/solaris",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/ml-class",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/sprinter",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/vito",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/fabia",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/octavia",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/rapid",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/roomster",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/superb",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/yeti",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/camry",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/corolla",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/rav-4",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/amarok",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/caddy",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/crafter",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/golf",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/jetta",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/lt",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/passat",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/polo",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/scirocco",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/sharan",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/tiguan",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/touareg",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/touran",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/transporter",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/company/licenses",
+   "destination": "/company/",
+   "permanent": true
+  },
+  {
+   "source": "/company/subscribe",
+   "destination": "/company/",
+   "permanent": true
+  },
+  {
+   "source": "/info/faq",
+   "destination": "/faq/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/diagnostika-dopolnitelnogo-podogrevatelya",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/diagnostika-skhod-razvala",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/pokupaem_poderzhannyy_avtomobil_vmeste_s_vws",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/superpredlozhenie-na-khranenie-shin",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a2/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a3/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a4/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a5/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a6/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a7/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/a8/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q3/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q5/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/audi/q7/",
+   "destination": "/cars/audi/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/focus/",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/mondeo/",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/ford/transit/",
+   "destination": "/cars/ford/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/accent/",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/santa-fe/",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/hyundai/solaris/",
+   "destination": "/cars/hyundai/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/ml-class/",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/sprinter/",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/mercedes/vito/",
+   "destination": "/cars/mercedes/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/fabia/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/octavia/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/rapid/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/roomster/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/superb/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/skoda/yeti/",
+   "destination": "/cars/skoda/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/camry/",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/corolla/",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/toyota/rav-4/",
+   "destination": "/cars/toyota/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/amarok/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/caddy/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/crafter/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/golf/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/jetta/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/lt/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/passat/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/polo/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/scirocco/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/sharan/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/tiguan/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/touareg/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/touran/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/cars/volkswagen/transporter/",
+   "destination": "/cars/volkswagen/",
+   "permanent": true
+  },
+  {
+   "source": "/company/licenses/",
+   "destination": "/company/",
+   "permanent": true
+  },
+  {
+   "source": "/company/subscribe/",
+   "destination": "/company/",
+   "permanent": true
+  },
+  {
+   "source": "/info/faq/",
+   "destination": "/faq/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/diagnostika-dopolnitelnogo-podogrevatelya/",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/diagnostika-skhod-razvala/",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/pokupaem_poderzhannyy_avtomobil_vmeste_s_vws/",
+   "destination": "/skidki/",
+   "permanent": true
+  },
+  {
+   "source": "/skidki/superpredlozhenie-na-khranenie-shin/",
+   "destination": "/skidki/",
+   "permanent": true
+  }
+ ],
+ "headers": [
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Robots-Tag",
+     "value": "noindex, nofollow"
+    }
+   ]
+  },
+  {
+   "source": "/static/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=604800"
+    }
+   ]
+  }
+ ]
+}
